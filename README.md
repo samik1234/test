@@ -3,7 +3,5 @@
 
 
 
-![placeholder](https://github.com/samik1234/test/assets/82882143/25bc9efb-b6b6-40ea-9ed6-e969835692b5)
-
-
-![MotionLogo](https://github.com/samik1234/test/assets/82882143/236ac118-56df-4b20-a55b-b85de6bc088e)
+![placeholder](https://github.com/samik1234/test/assets/82882143/d0b46ed1-7a21-4b8a-94c0-17fe400d6efd)
+![OIP (2)](https://github.com/samik1234/test/assets/82882143/81a90c1a-6919-4474-a315-d3b5e6594735)
