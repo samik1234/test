@@ -10,4 +10,4 @@ Code has to be bundled using a bundler like webpack and transformed using a comp
 You need to do production optimizations such as code splitting.
 You might want to statically pre-render some pages for performance and SEO. You might also want to use server-side rendering or client-side rendering.
 You might have to write some server-side code to connect your React app to your data store.
-![Netflix-avatar](https://github.com/samik1234/test/assets/82882143/4af446e9-3cac-40b3-8130-64522a27b339)
+![download (3)](https://github.com/samik1234/test/assets/82882143/11d19aef-afcb-43fe-b413-8071f98e7501)
