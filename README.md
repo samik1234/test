@@ -1,6 +1,3 @@
-![placeholder](https://github.com/samik1234/test/assets/82882143/c47002e3-c0e6-40c5-bf3e-142abd514083)# test
-![girl](https://github.com/samik1234/test/assets/82882143/f3a3443a-2047-4665-854d-12f7878f1282)
-![16445823_v914-ning-37](https://github.com/samik1234/test/assets/82882143/02baa33d-c935-4855-81ba-3ea30d8b8fb5)
 
 
 
