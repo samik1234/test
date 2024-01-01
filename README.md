@@ -14,4 +14,3 @@ You might have to write some server-side code to connect your React app to your 
 ![images](https://github.com/samik1234/test/assets/82882143/df09c302-e58c-474c-a0f0-a386ec5c3598)
 ![mtn](https://github.com/samik1234/test/assets/82882143/6932ccf8-4a93-46ed-ae8f-4b572407b310)
 ![main](https://github.com/samik1234/test/assets/82882143/3b48b5bc-0096-4fac-a095-52751beb0d49)
-![Netflix-avatar](https://github.com/samik1234/test/assets/82882143/a99ba779-2d14-4ea0-9c7b-c10b358a9a17)
