@@ -1,5 +1,4 @@
 
-![trello](https://github.com/samik1234/test/assets/82882143/7ca2c26e-878d-4213-b814-ff332624b960)
 
 
 
