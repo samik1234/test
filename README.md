@@ -1,5 +1,4 @@
 
-![mtn](https://github.com/samik1234/test/assets/82882143/a00ab26b-47e9-406a-a783-5d1640b5e32b)
 
 
 
